@@ -6,6 +6,7 @@ This is a complete rewrite of the Flightr app. Screenshots of the orginal versio
 * https://nickstewart.me/wp-content/themes/nickstewart/res/img/trip_cards_pixel_very_silver_portrait.png
 * https://nickstewart.me/wp-content/themes/nickstewart/res/img/booking_pixel_very_silver_portrait.png
 * https://nickstewart.me/wp-content/themes/nickstewart/res/img/swipe_left_pixel_very_silver_portrait.png
+* https://www.youtube.com/watch?v=CBvZKnd8U6s
 
 
 ## Screenshots
