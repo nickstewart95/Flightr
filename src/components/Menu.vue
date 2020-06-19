@@ -26,7 +26,7 @@ export default {
 
 <style lang="scss" scoped>
     ul {
-        position: absolute;
+        position: fixed;
         top: 0px;
         left: 0px;
         z-index: 9999;
