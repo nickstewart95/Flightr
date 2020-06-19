@@ -110,7 +110,7 @@ export default {
         padding: 0px;
         width: 100vw;
         height: 100vh;
-        overflow: hidden;
+        overflow-x: hidden;
         background: #fff;
         font-family: ff-dagny-web-pro, sans-serif;
     }

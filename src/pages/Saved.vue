@@ -4,7 +4,7 @@
         <div v-if="this.savedResults" class="items">
             <SavedItem v-for="result in this.savedResults" :key="result.id" :data="result" />
         </div>
-        <div v-id="!this.savedResults">
+        <div v-if="this.savedResults.length === 0">
             <p>No saved items</p>
         </div>
     </div>
@@ -25,4 +25,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
+    .item {
+        margin-bottom: 40px;
+    }
 </style>
